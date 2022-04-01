@@ -1,0 +1,166 @@
+.logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+  text-decoration: none;
+}
+.main-menu {
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0,875;
+  letter-spacing: 0.02em;
+}
+.main-menu:hover {
+  color: rgba(33, 150, 243, 1);
+  text-decoration: none;
+}
+.contact {
+  color: rgba(117, 117, 117, 1);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 0,875;
+  letter-spacing: 0.02em;
+}
+.contact:hover {
+  color: rgba(33, 150, 243, 1);
+  text-decoration: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: rgba(117, 117, 117, 1);
+}
+.main-h1 {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 0,73;
+}
+.main-h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 0,85;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: rgba(33, 33, 33, 1);
+}
+.main-button {
+  width: 200px;
+  height: 50px;
+
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 0,53;
+  color: white;
+}
+.lorem-ipsum {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 0,87;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: rgba(33, 33, 33, 1);
+}
+.lorem-ipsum-text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 0,58;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+}
+.team-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 0,84;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+  color: rgba(33, 33, 33, 1);
+}
+.team-work {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0,84;
+  /* identical to box height */
+
+  letter-spacing: 0.03em;
+  color: rgba(117, 117, 117, 1);
+}
+.button1 {
+  /* position: absolute;
+  width: 93px;
+  height: 38px;
+  left: 639px;
+  top: 174px; */
+
+  background: rgba(245, 244, 250, 1);
+  border: none;
+  color: black;
+  width: 93px;
+  height: 38px;
+  border-radius: 4px;
+}
+.button1:hover {
+  background-color: rgba(33, 150, 243, 1);
+  color: white;
+  cursor: pointer;
+  box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08),
+    0px 2px 2px rgba(0, 0, 0, 0.12);
+  width: 121px;
+  height: 38px;
+  border-radius: 4px;
+}
+.projects {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 0,5;
+  color: rgba(33, 33, 33, 1);
+
+  letter-spacing: 0.06em;
+}
+
+.type-projects {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 0,53;
+  /* identical to box height, or 188% */
+  color: rgba(117, 117, 117, 1);
+
+  letter-spacing: 0.03em;
+}
+
+footer {
+  background-color: rgba(47, 48, 58, 1);
+}
+.address-footer {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 0,58;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+  color: rgba(245, 244, 250, 1);
+}
+.contact-footer {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 0,58;
+  /* or 171% */
+
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
